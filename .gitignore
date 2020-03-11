@@ -1,2 +1,6 @@
 *.txt
 *.o
+*.exe
+*.key
+*.out
+*.c~
